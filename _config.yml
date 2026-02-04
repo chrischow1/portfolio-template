@@ -2,8 +2,8 @@
 
 title: "Your Name"
 description: "Academic portfolio"
-url: ""
-baseurl: ""
+url: "https://jpl11.github.io"
+baseurl: "/portfolio-template"
 
 markdown: kramdown
 kramdown:
