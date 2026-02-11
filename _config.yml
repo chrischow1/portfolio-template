@@ -3,7 +3,7 @@
 title: "Chris Chow"
 description: "Academic portfolio"
 url: "https://chrischow1.github.io"
-baseurl: "/portfolio-template"
+baseurl: "/PersonalPortfolioWebsite"
 
 markdown: kramdown
 kramdown:
