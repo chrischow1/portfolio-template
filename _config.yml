@@ -1,7 +1,11 @@
 # Jekyll site config
 
 title: "Chris Chow"
-description: "Academic portfolio"
+description: >
+  The Personal Portfolio Website is a professional platform that showcases 
+  the user’s skills, projects, and academic background. It provides employers 
+  with an accessible, centralized overview of his/her qualifications using a clean 
+  and cost-efficient GitHub Pages framework.
 url: "https://chrischow1.github.io"
 baseurl: "/PersonalPortfolioWebsite"
 
