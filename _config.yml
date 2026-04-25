@@ -24,6 +24,8 @@ nav:
     url: "/skills/"
   - title: "Projects"
     url: "/projects/"
+  - title: "Papers"
+    url: "/papers/"
   - title: "Work Experience"
     url: "/experience/"
   - title: "Resume"
