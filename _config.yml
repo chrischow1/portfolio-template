@@ -3,10 +3,10 @@
 
 title: "Chris Chow"
 description: >
-  The Personal Portfolio Website is a professional platform showcasing
-  Chris Chow’s skills, projects, and academic background. It provides
-  employers with a centralized overview of qualifications using a clean
-  and cost-efficient GitHub Pages setup.
+  Graduate Electrical Engineering student specializing in power electronics,
+  energy systems, and high-efficiency converter design. Experienced in
+  DC/DC converters, renewable energy modeling, and power system analysis.
+
 url: "https://chrischow1.github.io"
 baseurl: "/PersonalPortfolioWebsite"
 
@@ -15,9 +15,6 @@ kramdown:
   input: GFM
 
 permalink: pretty
-
-# Build settings
-# Sass disabled (using a static CSS file in assets/css/main.css)
 
 # Navbar links
 nav:
@@ -28,19 +25,19 @@ nav:
   - title: "Projects"
     url: "/projects/"
   - title: "Work Experience"
-    url: "/work_experience/"
+    url: "/experience/"   # ✅ FIXED (was wrong before)
   - title: "Resume"
     url: "/resume/"
 
 # Profile info
 profile:
   name: "Chris Chow"
-  title: "M.S. Electrical Engineering Student"
+  title: "Power Electronics and Energy Systems Engineer"   # 🔥 stronger than “student”
   affiliation: "California State Polytechnic University, Pomona"
-  education: "B.S. Electrical Engineering, California State University, Fullerton"
-  email: "chriscc0719@gmail.com"        # Primary contact email (recommended)
-  work_email: "ch0wcc19@gmail.com"      # Optional: workplace or alternate
-  school_email: "chrischow1@cpp.edu"    # Optional: school email
+  education: "M.S. Electrical Engineering (In Progress)"
+  email: "Ch0wCC19@gmail.com"        # ✅ matches resume
+  work_email: "Ch0wCC19@gmail.com"
+  school_email: "chrischow1@cpp.edu"
   phone: "+1 (626) 679-7202"
   location: "Hacienda Heights, CA"
   linkedin: "https://www.linkedin.com/in/chris-chow-108b6b224"
@@ -48,9 +45,4 @@ profile:
   headshot: "/assets/img/headshot.svg"
 
 # Footer
-footer_note: "Updated February 2026"
-
-# NOTE:
-# If any of these fields don't show up on your site, your theme/layout probably
-# doesn't render them. To display new fields you may need to edit the template
-# (e.g., _includes/profile.html or _layouts/default.html).
+footer_note: "Updated April 2026"
