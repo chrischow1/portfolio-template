@@ -32,9 +32,9 @@ nav:
 # Profile info
 profile:
   name: "Chris Chow"
-  title: "M.S. Electrical Engineering Student"   # 🔥 stronger than “student”
+  title: "Power Engineering Intern"   # 🔥 stronger than “student”
   affiliation: "California State Polytechnic University, Pomona"
-  education: "M.S. Electrical Engineering (In Progress)"
+  education: "M.S. Electrical Engineering"
   email: "Ch0wCC19@gmail.com"        # ✅ matches resume
   work_email: "Ch0wCC19@gmail.com"
   school_email: "chrischow1@cpp.edu"
